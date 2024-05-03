@@ -18,20 +18,6 @@ export const Footer = () => {
                 />
               </a>
             </div>
-            <p style={{ fontSize: "larger" }}>
-              Created By:{" "}
-              <a style={{ color: "#d4af37" }} href="https://qujuan.net/">
-                Qujuan Miller
-              </a>
-              /
-              <a
-                style={{ color: "#d4af37" }}
-                href="https://www.facebook.com/gaming/TismStudioGames"
-              >
-                TismStudios
-              </a>{" "}
-              2024
-            </p>
           </Col>
         </Col>
         <Col>
@@ -64,6 +50,20 @@ daviswalker66@gmail.com"
             </a>
           </p>
         </Col>
+        <p style={{ fontSize: "larger", color: "black" }}>
+          Created By:{" "}
+          <a style={{ color: "#d4af37" }} href="https://qujuan.net/">
+            Qujuan Miller
+          </a>
+          /
+          <a
+            style={{ color: "#d4af37" }}
+            href="https://www.facebook.com/gaming/TismStudioGames"
+          >
+            TismStudios
+          </a>{" "}
+          2024
+        </p>
       </Row>
     </footer>
   );
