@@ -7,7 +7,6 @@ import gasket from "./../assets/images/Gasket.jpg";
 import engine_replacement from "./../assets/images/Engine_Replacement.jpg";
 import transmission_repair from "./../assets/images/transmission_repair.jpg";
 import bearings from "./../assets/images/bearings.jpg";
-import colorSharp from "./../assets/images/color-sharp.svg";
 
 export const Services = () => {
   const responsive = {

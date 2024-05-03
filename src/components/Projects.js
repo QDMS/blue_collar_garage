@@ -7,8 +7,7 @@ import projImg3 from "./../assets/images/projImg3.jpg";
 import projImg4 from "./../assets/images/projImg4.jpg";
 import projImg5 from "./../assets/images/projImg5.jpg";
 import projImg6 from "./../assets/images/projImg6.jpg";
-import { ProjectVideoCard } from "./ProjectVideoCard"; // Import the ProjectVideoCard component
-import colorSharp from "./../assets/images/bcg.jpg";
+import { ProjectVideoCard } from "./ProjectVideoCard";
 
 export const Projects = () => {
   const projects = [
