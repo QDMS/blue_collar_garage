@@ -21,17 +21,17 @@ export const Footer = () => {
           </Col>
         </Col>
         <Col>
-          <h1 style={{ fontSize: 80, color: "#32527b" }}>Blue Collar Garage</h1>
+          <h1 style={{ fontSize: 80, color: "white" }}>Blue Collar Garage</h1>
           <p style={{ fontSize: "larger" }}>
             Phone:{" "}
-            <a style={{ color: "#32527b" }} href="tel:+12299771509">
+            <a style={{ color: "black" }} href="tel:+12299771509">
               (229)977-1509
             </a>
           </p>
           <p style={{ fontSize: "larger" }}>
             Email:{" "}
             <a
-              style={{ color: "#32527b" }}
+              style={{ color: "black" }}
               href="mailto:
 daviswalker66@gmail.com"
             >
@@ -41,7 +41,7 @@ daviswalker66@gmail.com"
           <p style={{ fontSize: "larger" }}>
             Address:{" "}
             <a
-              style={{ color: "#32527b" }}
+              style={{ color: "black" }}
               href="https://www.google.com/maps/place/5005+Knights+Ferry+Rd,+Valdosta,+GA+31601-1154,+United+States"
               target="_blank"
               rel="noopener noreferrer"
