@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="1334px" viewBox="0 0 750 1334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>eoy-dots-1 mobile</title>
+    <defs>
+        <filter x="-36.3%" y="-36.3%" width="172.6%" height="172.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-45.2%" y="-45.2%" width="190.4%" height="190.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-32.6%" y="-32.6%" width="165.2%" height="165.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-55.4%" y="-55.4%" width="210.7%" height="210.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="eoy-dots-1-mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ovals" transform="translate(-81.500000, -0.500000)">
+            <circle id="Oval-Copy-4" fill="#2047D0" filter="url(#filter-1)" cx="662.5" cy="873.5" r="206.5"></circle>
+            <circle id="Oval" fill="#00A9F4" filter="url(#filter-2)" cx="703.5" cy="166" r="166"></circle>
+            <circle id="Oval-Copy" fill="#034B6F" filter="url(#filter-3)" cx="230" cy="474.5" r="230"></circle>
+            <circle id="Oval" fill="#7A96FF" filter="url(#filter-4)" cx="241" cy="1123" r="135.5"></circle>
+        </g>
+    </g>
+</svg>
