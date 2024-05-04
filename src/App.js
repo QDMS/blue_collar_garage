@@ -12,7 +12,7 @@ function App() {
    
     <div className="App">
        <Helmet>
-        <meta title="Blue Collar Garage"/>
+        <title>Blue Collar Garage</title>
         <meta name=" Blue Collar Garage A Licensed And Insured Mechanic Shop" content="Auto Repair Shop"/>
        </Helmet>
       <NavBar />
